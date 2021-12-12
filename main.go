@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "github.com/AlFalahtTaieb/GoLangStocks/cmd"
+import "github.com/AlFalahTaieb/GoCobra/cmd"
 
 func main() {
 	cmd.Execute()

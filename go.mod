@@ -1,4 +1,4 @@
-module github.com/AlFalahtTaieb/GoLangStocks
+module github.com/AlFalahtTaieb/GoCobra
 
 go 1.17
 
