@@ -1,4 +1,4 @@
-module github.com/AlFalahtTaieb/GoCobra
+module github.com/AlFalahTaieb/GoCobra
 
 go 1.17
 
